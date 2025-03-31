@@ -1,2 +1,2 @@
-name = input()
-print(name + '??!')
+a = input()
+print(a+"??!")
