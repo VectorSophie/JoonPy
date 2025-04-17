@@ -1,2 +1,3 @@
 N = int(input())
-print(N*"SciComLove")
+for i in range(N):
+    print("SciComLove")
