@@ -1,7 +1,4 @@
 A = int(input())
 div = input()
 B = int(input())
-if div == '+':
-    print(A+B)
-else:
-    print(A*B)
+print(A + B if div == '+' else A * B)
