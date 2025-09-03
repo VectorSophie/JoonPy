@@ -1,0 +1,1 @@
+print(5 - abs(((int(input()) - 1) % 8) - 4))
